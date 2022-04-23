@@ -19,7 +19,7 @@ KEY=""
 
 def help():
 
-	print('Aaaah!')
+	print('Invalid input')
 	exit()
 
 
