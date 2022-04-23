@@ -7,7 +7,7 @@ import numpy as np
 from subprocess import check_output
 
 
-rtg_files_handle = '/Volumes/GoogleDrive/.shortcut-targets-by-id/19d0BR7kBq_DD_jz7mKcKd2U4lFy_2zcD/Katzlab_Fulltimers_Only/ReadyToGo_NTD_All'
+rtg_files_handle = ''
 
 
 def get_args():
