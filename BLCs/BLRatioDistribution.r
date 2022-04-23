@@ -5,7 +5,7 @@ setwd('')
 
 '%notin%' <- Negate('%in%')
 
-bl_data <- data.frame(read.csv('branch_length_ratios_all_anaerobes.csv')) %>%
+bl_data <- data.frame(read.csv('branch_length_ratios.csv')) %>%
   mutate(LGT = ifelse(Type == 'LGT', paste(substr(OG, 1, 10), '_LTG.tre', sep=''), LGT)) %>%
   mutate(LGT = paste(substr(LGT, 1, 10), '_', Cat, sep = '')) %>%
   filter(Ratio < 1000)# %>%
