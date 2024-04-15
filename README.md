@@ -1,5 +1,5 @@
 # LGT
-Public repository for code used in Cote-L'Heureux et al. (submitted), "Old Genes in New Places: A Taxon-Rich Analysis of Interdomain Lateral Gene Transfer Events." These scripts are not intended as standalone ready-to-use tools, and are tailored to our database naming system in which each taxon gets a ten-digit code, e.g. Am_di_Acas indicates Acanthamoeba CAStellanii (DIscosea, AMoebozoa).
+Public repository for code used in Cote-L'Heureux et al. 2022, "Old Genes in New Places: A Taxon-Rich Analysis of Interdomain Lateral Gene Transfer Events" (https://journals.plos.org/plosgenetics/article/figures?id=10.1371/journal.pgen.1010239) These scripts are not intended as standalone ready-to-use tools, and are tailored to our database naming system in which each taxon gets a ten-digit code, e.g. Am_di_Acas indicates Acanthamoeba CAStellanii (DIscosea, AMoebozoa).
 
 ## Folder structure:
 ### BranchLengthComparisons
